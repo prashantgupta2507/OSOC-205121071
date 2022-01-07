@@ -1,0 +1,11 @@
+Create a new branch
+On the new branch and make an edit
+Now commit that edit
+change to the master branch
+edit the previous file
+commit the edit
+merge the branch into master to see the error
+now go into the previous file
+make necessary changes then save and close the file
+Now u can move this file to satging area and then commit changes done.
+Now we are ready to push this local repo.
