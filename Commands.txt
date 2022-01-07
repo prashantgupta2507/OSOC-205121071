@@ -1,0 +1,10 @@
+1. $ git status  // check status of current git folder
+2. $ git diff // Track the changes that have not been staged
+3. $ git diff --staged // Track the changes that have staged but not committed
+4. $ git diff HEAD // Track the changes after committing a file
+5. $ git stash // Switch branches without committing the current branch
+6. $ git stash list // Check the stored stashes
+7. $ git stash apply // Re-apply the changes that you just stashed
+8. $ git stash pop // Re-apply the previous commits
+9. $ git stash drop // Delete a most recent stash from the queue
+10. $ git rebase // Apply a sequence of commits from distinct branches into a final commit.
