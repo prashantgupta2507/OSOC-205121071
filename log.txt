@@ -1,0 +1,42 @@
+* commit 7dac139d236cedad37c4c9ab1cfa7bf2ad526d8a (HEAD -> main)
+| Author: prashantgupta2507 <prashantgupta2507@gmail.com>
+| Date:   Fri Jan 7 20:00:27 2022 +0530
+| 
+|     description about resolving conflict
+|   
+*   commit 5b130806f1734fcc0f0ef08c41397d9b2c29e13d
+|\  Merge: cb66212 8890302
+| | Author: prashantgupta2507 <prashantgupta2507@gmail.com>
+| | Date:   Fri Jan 7 19:56:50 2022 +0530
+| | 
+| |     conflict resolved
+| | 
+| * commit 88903025ca688e6ff5199cc0f54837f46a7c7d3f (new_branch)
+| | Author: prashantgupta2507 <prashantgupta2507@gmail.com>
+| | Date:   Fri Jan 7 19:50:13 2022 +0530
+| | 
+| |     conflict file change by new_branch
+| | 
+* | commit cb662129c7d95b6fac33b3052085155b9b0163ea
+|/  Author: prashantgupta2507 <prashantgupta2507@gmail.com>
+|   Date:   Fri Jan 7 19:51:46 2022 +0530
+|   
+|       conflict file changed by main branch
+| 
+* commit 372c75fcfcebd22011504cca6573d78f2e3b59cd
+| Author: prashantgupta2507 <prashantgupta2507@gmail.com>
+| Date:   Fri Jan 7 19:48:57 2022 +0530
+| 
+|     conflict file created
+| 
+* commit 0207d66a69a0847774fbb8ba430cc446b5f1bf30
+| Author: prashantgupta2507 <prashantgupta2507@gmail.com>
+| Date:   Fri Jan 7 19:48:12 2022 +0530
+| 
+|     Commands file added
+| 
+* commit 84d38b4625e3c648eeaf1bbdc9fd542fa954fdb0 (origin/main, origin/HEAD)
+  Author: SHANOOR AHMED <76896805+shanoorahmed@users.noreply.github.com>
+  Date:   Mon Jan 3 00:41:26 2022 +0530
+  
+      Initial commit
