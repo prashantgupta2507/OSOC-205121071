@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This conflict is done by main branch
+=======
+Conflict created by new_branch
+>>>>>>> new_branch
